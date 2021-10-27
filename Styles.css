@@ -1,0 +1,79 @@
+h1{
+  text-align: center;
+}
+.logo{
+border-color: red;
+float: left;
+padding: 10px;
+border-radius: 50%;
+}
+img {
+  border-radius: 50%;
+}
+.contact{
+  float: right;
+  padding: 10px 10px;
+}
+.Header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2F4F4F
+}
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2F4F4F;
+    width : 65%;
+  }
+
+  
+  .navbutton {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+    border:1px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    border-radius: 6%;
+    margin : 0 10px;
+    opacity : 35%;
+    background-color: rebeccapurple;
+    
+    
+   
+  }
+  
+  .navbutton:hover {
+    background-color: #111;
+  }
+
+*{
+    box-sizing: border-box;
+}
+
+head{
+
+    border-style: solid;
+    border:2px;
+    border-color:yellow;
+}
+
+body{
+
+    border-style: solid;
+    border-color: blue;
+    background-color: red;
+}
+
+footer{
+
+    border-style: solid;
+    border-color:green;
+}
